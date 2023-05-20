@@ -5,3 +5,6 @@
 ### Bibliography
 
 1 - https://www.w3resource.com/python-exercises/python-basic-exercise-2.php
+
+
+2 - https://stackoverflow.com/questions/1252163/printing-python-version-in-output
