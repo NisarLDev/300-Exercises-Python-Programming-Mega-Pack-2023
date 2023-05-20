@@ -1,6 +1,3 @@
-
-
-
 # My solution
 
 print('Learn Python!')
