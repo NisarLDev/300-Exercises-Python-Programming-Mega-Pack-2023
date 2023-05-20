@@ -17,3 +17,21 @@
 
 
 5 - https://www.freecodecamp.org/espanol/news/tutorial-de-f-strings-en-python-formato-de-cadenas-en-python-explicado-con-ejemplos/
+
+
+6 - https://ellibrodepython.com/iterator-python
+
+
+7 - https://uniwebsidad.com/libros/algoritmos-python/capitulo-16/iteradores
+
+
+8 - https://cosasdedevs.com/posts/iteradores-next-python/
+
+
+9 - https://recursospython.com/guias-y-manuales/iteradores-iterables-y-la-funcion-next/
+
+
+10 - https://j2logo.com/bucle-for-en-python/
+
+
+11 - https://programminghistorian.org/es/lecciones/manipular-cadenas-de-caracteres-en-python
